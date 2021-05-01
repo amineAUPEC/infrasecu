@@ -33,5 +33,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           sudo cat /proc/cpuinfo
-          sudo apt-get install -y ifupdown
-          sudo ./build.sh
+#          sudo apt-get install -y ifupdown
+ #         sudo ./build.sh
